@@ -44,11 +44,15 @@ Submenta seu projeto através do link no github
 ## 🚀 Resultados
 
 PowerBI Service - publicado
-![pág 01 - service](https://github.com/bids-work/desafio-criando-um-relatorio-gerencial-de-vendas-com-powerbi/blob/main/desafio%20unid%2004%20-%20service%2001.PNG)
-![pág 02 - service](https://github.com/bids-work/desafio-criando-um-relatorio-gerencial-de-vendas-com-powerbi/blob/main/desafio%20unid%2004%20-%20service%2002.PNG)
+![pag 01 - service](https://github.com/bids-work/desafio-criando-um-relatorio-gerencial-de-vendas-com-powerbi/blob/main/desafio%20unid%2004%20-%20service%2001.PNG)
+![pag 02 - service](https://github.com/bids-work/desafio-criando-um-relatorio-gerencial-de-vendas-com-powerbi/blob/main/desafio%20unid%2004%20-%20service%2002.PNG)
 
 Prints de tela
-![pág 01 - pbix](https://github.com/bids-work/desafio-criando-um-relatorio-gerencial-de-vendas-com-powerbi/blob/main/desafio%20unid%2004%20-%20pag%2001a%20de%20pbix.png)
+![pag 01 - pbix](https://github.com/bids-work/desafio-criando-um-relatorio-gerencial-de-vendas-com-powerbi/blob/main/desafio%20unid%2004%20-%20pag%2001a%20de%20pbix.png)
+![pag 02 - pbix](https://github.com/bids-work/desafio-criando-um-relatorio-gerencial-de-vendas-com-powerbi/blob/main/desafio%20unid%2004%20-%20pag%2001b%20de%20pbix.png)
+
+Prints de tela com indicação de links
+![pag 01 - pbix com link](https://github.com/bids-work/desafio-criando-um-relatorio-gerencial-de-vendas-com-powerbi/blob/main/desafio%20unid%2004%20-%20pag%2001c%20link%201%20de%20pbix.png)
 
 
 
