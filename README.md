@@ -47,6 +47,8 @@ Submenta seu projeto através do link no github
 ![pag 01 - service](https://github.com/bids-work/desafio-criando-um-relatorio-gerencial-de-vendas-com-powerbi/blob/main/desafio%20unid%2004%20-%20service%2001.PNG)
 ![pag 02 - service](https://github.com/bids-work/desafio-criando-um-relatorio-gerencial-de-vendas-com-powerbi/blob/main/desafio%20unid%2004%20-%20service%2002.PNG)
 
+Na pag 01, foi alterado um dos cartões de 'soma de discounts' para 'soma de profit', para não ficarem com cartões repetidos.
+
 
 ## Prints de tela
 ![pag 01 - bar/map pbix](https://github.com/bids-work/desafio-criando-um-relatorio-gerencial-de-vendas-com-powerbi/blob/main/desafio%20unid%2004%20-%20pag%2001a%20de%20pbix.png)
