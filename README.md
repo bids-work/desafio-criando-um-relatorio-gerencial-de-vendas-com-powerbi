@@ -68,6 +68,8 @@ https://app.powerbi.com/links/VGbnUcv3Ik?ctid=7cbd93f7-cfe9-46c3-85a3-280fce96ab
 
 
 ## Em PDF
+https://github.com/bids-work/desafio-criando-um-relatorio-gerencial-de-vendas-com-powerbi/blob/main/sample_financial_work.bidsdb_unid_04_aA-4-5.pdf
 
+https://github.com/bids-work/desafio-criando-um-relatorio-gerencial-de-vendas-com-powerbi/blob/main/sample_financial_work.bidsdb_unid_04_aB-4-5.pdf
 
 ```
